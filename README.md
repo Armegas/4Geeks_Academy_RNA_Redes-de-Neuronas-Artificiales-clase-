@@ -7,7 +7,6 @@ Soy un Cientifico de Datos Acreditado por:
 <img src="https://coursereport-production.imgix.net/uploads/school/logo/1185/original/HENRY_logo.jpg?w=200&h=200&dpr=4&q=23"  height=100>
 <img src="https://techcrunch.com/wp-content/uploads/2016/02/503746912.jpg?resize=1200,816" height=100>
   
-</p>
 # ***4Geeks Academy:***
                                                                                   
 <p align="center">
