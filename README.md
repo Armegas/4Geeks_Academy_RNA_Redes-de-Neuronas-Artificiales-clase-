@@ -13,5 +13,8 @@ Soy un Cientifico de Datos Acreditado por:
 <img src="https://4geeksacademy.com/static/dc42e38caa9db517ddea28bea5e40d02/74acc/4geeksacademy-logo-old.webp" height=100>
  </p> 
 <p align="center">
-Link (https://drive.google.com/file/d/1Csya2jyZKtX0myKde4I6Po03oC2k7ffg/view?usp=sharing)
+Link de Video de la Clase 1 (https://drive.google.com/file/d/1Csya2jyZKtX0myKde4I6Po03oC2k7ffg/view?usp=sharing)
+ </p> 
+<p align="center">
+Link de Video Plus Clase 2 (https://drive.google.com/file/d/1lcUBZl-bZ33jx-x68FNSqgP_7g7Jxlv4/view?usp=sharing)
  </p> 
