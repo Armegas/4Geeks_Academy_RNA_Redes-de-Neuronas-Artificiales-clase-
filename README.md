@@ -20,3 +20,4 @@ Link de Video de la Clase 1 (https://drive.google.com/file/d/1Csya2jyZKtX0myKde4
 <p align="center">
 Link de Video Plus Clase 2 (https://drive.google.com/file/d/1lcUBZl-bZ33jx-x68FNSqgP_7g7Jxlv4/view?usp=sharing)
  </p> 
+<img src="https://i.pinimg.com/474x/69/86/23/698623475e3132878237a89ac28e8266.jpg"  height=300>
