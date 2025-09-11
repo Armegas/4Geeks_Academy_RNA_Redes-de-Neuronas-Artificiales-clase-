@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://s3.amazonaws.com/bloc-global-assets/almanac-assets/bootcamps/logos/000/002/594/original/4-Geeks-Academy.png?1467187267" height=300>
+
 # 4Geeks_Academy_RNA_Redes-de-Neuronas-Artificiales-clase-
 Clase para Data Science de RNA (Redes de Neuronas Artificiales) dictada por el profesor Nelson Castro
 ***Data Science / Data Analytics / Data Engineer / Machine Learning / IA / System Engineer***
