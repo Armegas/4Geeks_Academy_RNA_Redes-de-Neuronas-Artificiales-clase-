@@ -30,3 +30,5 @@ Link de Video Plus Clase 2 (https://drive.google.com/file/d/1lcUBZl-bZ33jx-x68FN
 <img src="https://i.pinimg.com/474x/69/86/23/698623475e3132878237a89ac28e8266.jpg"  height=300>
 
 # Clase de Numpy para Data Science
+como plus, tambien tenemos el agrado de presentar una tematica acerca de la libreria Numpy, donde encontraras en el repositorio la guia de la clase y tambien encontraras el link de la video clase.
+Seguimos rompiendola !!!
