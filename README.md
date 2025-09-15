@@ -1,4 +1,4 @@
-## Todo un nivel, cuando hacemos lo que nos gusta y codear e implementar con las exigencias de los mejores. 
+## Todo un nivel, cuando hacemos lo que nos gusta, codear con los mejores. 
 
 <p align="center">
 <img src="https://s3.amazonaws.com/bloc-global-assets/almanac-assets/bootcamps/logos/000/002/594/original/4-Geeks-Academy.png?1467187267" height=500>
