@@ -34,5 +34,5 @@ Como plus, tambien tenemos el agrado de presentar una tematica acerca de la libr
 Seguimos rompiendola !!!
 
 <p align="center">
-Link de Video Plus Clase Numpy (https://drive.google.com/file/d/1Z0aCRoVsKyNSxRB8TlBuGhybfQDY2IqR/view?usp=sharing)
+Link de Video Plus Clase Numpy (https://drive.google.com/file/d/1_y6Allq_mNfD7-8pv2p4Tijdm9lKeC08/view?usp=sharing)
  </p> 
